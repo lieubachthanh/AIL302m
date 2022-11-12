@@ -3,7 +3,7 @@ Group 3 project
 
 - Liêu Bách Thành
 - Nguyễn Minh Nhật
-Model:
+#Model:
 + LINEAR REGRESSION
 + LOGISTIC REGRESSION 
 + CLASSIFICATION (SVM)
